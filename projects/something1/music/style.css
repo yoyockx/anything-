@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+
+}
+h1{
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color :blueviolet;
+}
+nav ul {
+    background-color: crimson;
+    border-style: solid;
+    border-color: darksalmon;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color :antiquewhite;
+}
+nav ul li a {
+    text-decoration: none;
+    color: bisque;
+}
+nav ul li a:hover{
+    animation-name:glowpulse ;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+}
+table{
+    border: 12px;
+}
+

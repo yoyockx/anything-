@@ -1,0 +1,45 @@
+
+
+header{
+    position: fixed;
+    width: 100%;
+    top:-20px;
+    left:0 ;
+    height: 100%;
+}
+nav ul{
+  
+    background-color:blue ;
+    border-color: rgba(0, 0, 255, 0);
+    border-width: 2px;
+    border-style:solid ;
+    padding:13px;
+   
+}
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+nav ul li h1{
+    display: inline;
+    color: white;
+    font-family: cursive;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+
+}
+
+h2{
+    font-family: monospace;  
+
+}
+
+p{
+    font-size:23px;
+    
+}
